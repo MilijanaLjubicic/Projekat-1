@@ -1,0 +1,90 @@
+*       {
+        outline: 1px solid blue;
+margin:0px;
+padding:0px;}
+body{
+         padding-top: 10px;
+         margin: 0px;
+         background-image: url("../Slike/Pozadina 1.jpg");
+          background-repeat: no-repeat;
+         background-size: cover;
+         background-attachment: fixed;
+         background-position: 0px -200px;}
+      
+header {
+        background-color: rgb(76, 74, 216);
+         padding-top: 5px;
+         padding-bottom: 5px;
+         margin: 0px;
+        text-align: center;}    
+ h1{
+        color:whitesmoke;}
+
+ul{
+        list-style-type: none;
+        display: inline-block ;}
+p{
+        font-size: 12px;}
+.navigacija {
+        width:100%;
+         height: 60px;}
+ .navigacija li{
+        display: inline-block;
+         text-align: center;
+         padding-left: 50px;
+        padding-right:50px;
+        padding-top:
+               10px;
+         padding-bottom:8px;
+         color:rgb(50, 50, 202);
+         font-style:italic;
+        background-color: lightseagreen;
+        list-style-type: none;
+        margin-left: 80px;
+          margin-right:0px;
+        border-right:0px;
+        margin-top:0px;
+         }
+            
+ul{
+        display: inline-block;
+    }
+section  h1{
+        font-size: 20px;
+        color: rgb(65, 65, 163);
+        text-align: center;
+
+    }
+section  h2{
+        font-size: 15px;
+        color: rgb(67, 67, 155);
+        text-align: center;
+    }
+ div table{
+         padding-left: 500px;
+        border: mediumblue;
+        border-style: solid;
+        border :1px;
+        color: rgb(13, 15, 139);
+        padding-bottom: 30px;
+    }
+    iframe{
+            padding-left: 350px;
+
+    }
+    form{
+            height: 300px;
+            width: 400px;
+            padding-left:400px;
+
+    }
+    form,h2{
+            color: lightseagreen;
+    }
+    form,p{
+
+            color: blue;
+            font-size: 25px;
+     
+        
+    }
